@@ -1,0 +1,12 @@
+[
+    { "id": 1, "nombre": "ELFBAR 5000 PUFFS", "precio": 18500, "imagen": "https://via.placeholder.com/150" },
+    { "id": 2, "nombre": "ELFBAR 10000 PUFFS", "precio": 24900, "imagen": "https://via.placeholder.com/150" },
+    { "id": 3, "nombre": "ELFBAR 12000 PUFFS", "precio": 28000, "imagen": "https://via.placeholder.com/150" },
+    { "id": 4, "nombre": "LOST MARY MT TURBO 5000 PUFFS", "precio": 16000, "imagen": "https://via.placeholder.com/150" },
+    { "id": 5, "nombre": "LOST MARY MT TURBO 10000 PUFFS", "precio": 22600, "imagen": "https://via.placeholder.com/150" },
+    { "id": 6, "nombre": "LOST MARY MT TURBO 12000 PUFFS", "precio": 25000, "imagen": "https://via.placeholder.com/150" },
+    { "id": 7, "nombre": "HQD LUSH 5000 PUFFS", "precio": 16700, "imagen": "https://via.placeholder.com/150" },
+    { "id": 8, "nombre": "HQD LUSH 10000 PUFFS", "precio": 23300, "imagen": "https://via.placeholder.com/150" },
+    { "id": 9, "nombre": "HQD LUSH 12000 PUFFS", "precio": 25000, "imagen": "https://via.placeholder.com/150" }
+  ]
+  
